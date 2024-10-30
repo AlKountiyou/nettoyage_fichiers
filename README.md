@@ -7,6 +7,9 @@ Ce projet contient un script Python pour le nettoyage de fichiers.
 - `nettoyage_fichiers.py` : Script principal pour le nettoyage de fichiers.
 - `README.md` : Ce fichier, fournissant des informations sur le projet.
 
+## Pré-Requis
+- python 3.x
+
 ## Utilisation
 
 Pour exécuter le script, utilisez la commande suivante :
